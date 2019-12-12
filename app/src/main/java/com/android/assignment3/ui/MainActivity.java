@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                             password.setText("");
 
                         } else {
-                            Toast.makeText(MainActivity.this, "user name or password mistake",
+                            Toast.makeText(MainActivity.this, "Check your credentials again!!.",
                                     Toast.LENGTH_SHORT).show();
 
                         }
