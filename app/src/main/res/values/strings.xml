@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="title_activity_main_window">Prerana_eSoftwarica</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Add Student</string>
+    <string name="title_notifications">About</string>
+
+
+</resources>
